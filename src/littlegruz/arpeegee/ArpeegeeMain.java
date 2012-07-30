@@ -33,7 +33,6 @@ import littlegruz.arpeegee.listeners.PlayerInteract;
 import littlegruz.arpeegee.listeners.PlayerJoin;
 import littlegruz.arpeegee.listeners.PlayerLevel;
 import littlegruz.arpeegee.listeners.PlayerProjectile;
-import littlegruz.arpeegee.listeners.PlayerRespawn;
 import littlegruz.arpeegee.listeners.PlayerSpeed;
 
 import org.bukkit.ChatColor;
